@@ -3,13 +3,9 @@
 <h3>Full Stack Developer | Designer | Computer Sceince Student</h3>
 <hr>
 <h5>Hi there 👋</h5>
-<br>
 <p>As a full-stack developer, I have experience working with a wide range of technologies to build robust and scalable web applications. I'm proficient in both front-end and back-end development, allowing me to handle the entire software development lifecycle.</p>
-<br>
 <p>On the front-end, I'm skilled in using HTML, CSS, and JavaScript to create responsive and visually appealing user interfaces. I'm familiar with popular frameworks and libraries such as React which help me to develop efficient and maintainable client-side applications.</p>
-<br>
 <p>For the back-end, I have expertise in server-side languages like Node.js and PHP. I'm adept at designing and implementing RESTful APIs, managing databases (SQL), and deploying applications to cloud platforms like AWS or Azure. I also have experience with DevOps practices, including continuous integration and deployment.</p>
-<br>
 <p>Throughout my work, I prioritize code quality, maintainability, and security. I'm a collaborative team player who enjoys tackling complex problems and finding creative solutions. I'm constantly learning and staying up-to-date with the latest industry trends and best practices to deliver high-quality, scalable, and user-friendly web applications.</p>
 
 <h2>Some of the preferred tech stack, tools and platforms I use</h2>

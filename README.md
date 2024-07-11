@@ -12,8 +12,8 @@
 
 <h3>🛠️ Tech Stack</h3>
 
-![image](https://github.com/firodina/keithgalli/assets/169522158/4fa8715c-e6b4-4d15-a653-51845ed054e5)
-![image](https://github.com/firodina/keithgalli/assets/169522158/af1bac01-97e1-4b0c-8894-1c0ed6f505c5)
+![image](https://github.com/firodina/firodina/assets/169522158/4fa8715c-e6b4-4d15-a653-51845ed054e5)
+![image](https://github.com/firodina/firodina/assets/169522158/af1bac01-97e1-4b0c-8894-1c0ed6f505c5)
 ![image](https://github.com/firodina/firodina/assets/169522158/69281621-df97-4548-9dc3-30bad9535527)
 ![image](https://github.com/firodina/firodina/assets/169522158/4558922c-79c3-470f-b081-357221d56897)
 ![image](https://github.com/firodina/firodina/assets/169522158/57b11c03-30ca-49c0-8467-9115b22d0458)

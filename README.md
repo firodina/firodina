@@ -1,6 +1,6 @@
 <h1>Rowda Hassan</h1>
 
-<h3>Full Stack Developer | Designer | Computer Sceince Student</h3>
+<h3>Full Stack Developer |Web Designer | Programmer</h3>
 <hr>
 <h5>Hi there 👋</h5>
 <p>As a full-stack developer, I have experience working with a wide range of technologies to build robust and scalable web applications. I'm proficient in both front-end and back-end development, allowing me to handle the entire software development lifecycle.</p>

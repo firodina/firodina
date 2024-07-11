@@ -12,19 +12,16 @@
 
 <h3>🛠️ Tech Stack</h3>
 
-![image](https://github.com/firodina/firodina/assets/169522158/4fa8715c-e6b4-4d15-a653-51845ed054e5)
-![image](https://github.com/firodina/firodina/assets/169522158/af1bac01-97e1-4b0c-8894-1c0ed6f505c5)
+![image](https://github.com/firodina/firodina/assets/169522158/ff324362-10f4-4f60-a737-2d3c200dfd32)
+![image](https://github.com/firodina/firodina/assets/169522158/082c2839-0e70-4edc-85a1-edb4def97d14)
 ![image](https://github.com/firodina/firodina/assets/169522158/69281621-df97-4548-9dc3-30bad9535527)
-![image](https://github.com/firodina/firodina/assets/169522158/4558922c-79c3-470f-b081-357221d56897)
-![image](https://github.com/firodina/firodina/assets/169522158/57b11c03-30ca-49c0-8467-9115b22d0458)
+![image](https://github.com/firodina/firodina/assets/169522158/6aea0270-87de-4614-a82c-f2b73e244d6f)
 ![image](https://github.com/firodina/firodina/assets/169522158/ae0e85f3-ac9a-4c2a-8d04-dd41afc4600b)
 ![image](https://github.com/firodina/firodina/assets/169522158/713568a3-aa1c-41a0-829f-d704ce176595)
 ![image](https://github.com/firodina/firodina/assets/169522158/ee212220-c5f1-444a-9eb6-fc18e0f9bc3a)
 ![image](https://github.com/firodina/firodina/assets/169522158/46792c81-f715-4ad9-b081-9612ab7ec470)
 ![image](https://github.com/firodina/firodina/assets/169522158/997daad2-55c6-4792-80fc-e20be0ec3cb5)
-
-
-
+![image](https://github.com/firodina/firodina/assets/169522158/3eb2a05d-ff99-49f7-b7c6-b4896a881fe3)
 
 💾  Data
 
@@ -40,6 +37,9 @@
 
 ![image](https://github.com/firodina/firodina/assets/169522158/e7286de5-993e-4e06-bd6d-fd5ceeceae68)
 ![image](https://github.com/firodina/firodina/assets/169522158/ad8ca05a-2e08-4a51-8897-9d303b879450)
+
+
+
 
 
 
